@@ -16,7 +16,6 @@ class MaxQueue {
         array.forEach((value) => {
             this.push(value);
         })
-        console.log(this.elements);
     }
 
     push(value) {
