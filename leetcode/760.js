@@ -20,3 +20,5 @@ var anagramMappings = function(A, B) {
 
     return result;
 };
+
+console.log()
